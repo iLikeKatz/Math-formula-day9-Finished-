@@ -73,4 +73,5 @@ function compytha1() {
     handbutnot901.value = ""
     handbutnot902.value = ""
   }
-  
+ 
+    
